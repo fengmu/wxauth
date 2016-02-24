@@ -77,6 +77,8 @@ func checkErr(err error) {
     }
 }
 
+
+//hello git!
 func main() {
     //query_getSpaceData("fengmu","2014071211424522","20140712164102")
     mux := routes.New()
